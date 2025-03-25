@@ -1,0 +1,7 @@
+total 172
+-rw-rw-r-- 1 yannick yannick    865 mars  25 12:30 8_1.c
+-rw-rw-r-- 1 yannick yannick   1298 mars  25 12:15 8_4.c
+-rwxrwxr-x 1 yannick yannick  17040 mars  25 21:59 a.out
+-rw-rw-r-- 1 yannick yannick    578 mars  25 21:59 test.c
+-rw-rw-r-- 1 yannick yannick      0 mars  25 21:59 test.txt
+-rw-rw-r-- 1 yannick yannick 142144 mars  25 12:31 toto
